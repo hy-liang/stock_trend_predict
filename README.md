@@ -1,3 +1,3 @@
 # stock_trend_predict
-Shanghai（securities）composite index
-Accuracy: 80%
+# Shanghai（securities）composite index
+# Accuracy: 80%
